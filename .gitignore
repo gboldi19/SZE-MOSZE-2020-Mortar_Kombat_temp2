@@ -1,0 +1,15 @@
+*
+
+!*.cpp
+!*.h
+!*.md
+!*.json
+!*.yml
+!*.sh
+!*.csv
+
+!Cmakelists.txt
+!units
+!unit_testing
+!.github/workflows
+!.gitignore
